@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>BookWagon - Why buy if you can rent!</title>
+	<title>BookWagon - Why buy if you can rent</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Use Minified Plugins Version For Fast Page Load -->
 	<link rel="stylesheet" type="text/css" media="screen" href="css/plugins.css" />
@@ -1021,9 +1021,9 @@
 						<a href="#" class="payment-block">
 								<img src="image/icon/payment.png" alt="">
 						</a>
-						<p class="copyright-text">Copyright © 2019 <a href="#" class="author">BooksWagon</a>. All Right Reserved.
+						<p class="copyright-text">Copyright © 2019 <a href="#" class="author">BookWagon</a>. All Right Reserved.
 								<br>
-								Design By BooksWagon</p>
+								Design By BookWagon</p>
 				</div>
 		</div>
 </footer>

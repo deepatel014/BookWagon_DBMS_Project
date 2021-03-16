@@ -4647,9 +4647,9 @@
                 <a href="#" class="payment-block">
                     <img src="image/icon/payment.png" alt="">
                 </a>
-                <p class="copyright-text">Copyright © 2019 <a href="#" class="author">BooksWagon</a>. All Right Reserved.
+                <p class="copyright-text">Copyright © 2019 <a href="#" class="author">BookWagon</a>. All Right Reserved.
                     <br>
-                    Design By BooksWagon</p>
+                    Design By BookWagon</p>
             </div>
         </div>
     </footer>

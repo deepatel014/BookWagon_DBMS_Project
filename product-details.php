@@ -64,10 +64,10 @@
                                             <!-- <li class="cus-col-25">
                                                 <h3 class="menu-title"> <a href="javascript:void(0)">Shop List</a></h3>
                                                 <ul class="mega-single-block">
-                                                    <li><a href="shop-list.php">Fullwidth</a></li> 
+                                                    <li><a href="shop-list.php">Fullwidth</a></li>
                                                     <li><a href="shop-list-left-sidebar.php">List</a></li>
-                                                	<li><a href="shop-list-right-sidebar.php">Right Sidebar</a></li> 
-                                                </ul> 
+                                                	<li><a href="shop-list-right-sidebar.php">Right Sidebar</a></li>
+                                                </ul>
                                             </li>-->
                                             <li class="cus-col-25">
                                                 <h3 class="menu-title"> <a href="javascript:void(0)">Product Details
@@ -111,7 +111,7 @@
                                             <li><a href="order-complete.php">Order Complete</a></li>
                                             <li><a href="faq.php">Faq</a></li>
                                             <!-- made a change here -->
-                                            <li><a href="contact.php">contact</a></li> 
+                                            <li><a href="contact.php">contact</a></li>
                                         </ul>
                                     </li>
                                     <!-- Blog -->
@@ -220,7 +220,7 @@
                                                     </ul>
                                                 </li>
                                             </ul> -->
-                                        </li> 
+                                        </li>
                                         <li class="cat-item has-children"><a href="#">Business & Money</a>
                                             <!-- <ul class="sub-menu">
                                                 <li><a href="">Brake Tools</a></li>
@@ -670,9 +670,9 @@
                                         <!-- <li class="cus-col-25">
                                             <h3 class="menu-title"> <a href="javascript:void(0)">Shop List</a></h3>
                                             <ul class="mega-single-block">
-                                                <li><a href="shop-list.php">Fullwidth</a></li> 
+                                                <li><a href="shop-list.php">Fullwidth</a></li>
                                                 <li><a href="shop-list-left-sidebar.php">left Sidebar</a></li>
-                                                <li><a href="shop-list-right-sidebar.php">Right Sidebar</a></li> 
+                                                <li><a href="shop-list-right-sidebar.php">Right Sidebar</a></li>
                                             </ul>
                                         </li> -->
                                         <li class="cus-col-25">
@@ -1492,9 +1492,9 @@
                 <a href="#" class="payment-block">
                     <img src="image/icon/payment.png" alt="">
                 </a>
-                <p class="copyright-text">Copyright © 2019 <a href="#" class="author">BooksWagon</a>. All Right Reserved.
+                <p class="copyright-text">Copyright © 2019 <a href="#" class="author">BookWagon</a>. All Right Reserved.
                     <br>
-                    Design By BooksWagon</p>
+                    Design By BookWagon</p>
             </div>
         </div>
     </footer>
