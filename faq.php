@@ -20,7 +20,7 @@
 					<div class="row align-items-center">
 						<div class="col-lg-3">
 							<a href="index.php" class="site-brand">
-								<img src="image/logo.png" alt="">
+								<img src="image/Logo1.png" alt="">
 							</a>
 						</div>
 						<div class="col-lg-5">
