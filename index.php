@@ -196,7 +196,7 @@
                                                     </ul>
                                                 </li>
                                             </ul> -->
-                                        </li> 
+                                        </li>
                                         <li class="cat-item has-children"><a href="#">Business & Money</a>
                                             <!-- <ul class="sub-menu">
                                                 <li><a href="">Brake Tools</a></li>
@@ -289,9 +289,9 @@
                                             <!-- <li class="cus-col-25">
                                                 <h3 class="menu-title"> <a href="javascript:void(0)">Shop List</a></h3>
                                                 <ul class="mega-single-block">
-                                                     <li><a href="shop-list.php">Fullwidth</a></li> 
+                                                     <li><a href="shop-list.php">Fullwidth</a></li>
                                                     <li><a href="shop-list-left-sidebar.php">List</a></li>
-                                                    <li><a href="shop-list-right-sidebar.php">Right Sidebar</a></li> 
+                                                    <li><a href="shop-list-right-sidebar.php">Right Sidebar</a></li>
                                                 </ul>
                                             </li> -->
                                             <li class="cus-col-25">
@@ -336,7 +336,7 @@
                                             <li><a href="order-complete.php">Order Complete</a></li>
                                             <li><a href="faq.php">Faq</a></li>
                                             <!-- made a change here -->
-                                            <li><a href="contact.php">contact</a></li> 
+                                            <li><a href="contact.php">contact</a></li>
                                         </ul>
                                     </li>
                                     <!-- Blog -->
@@ -525,17 +525,17 @@
                     <i class="ion-android-close"></i>
                 </div>
                 <div class="off-canvas-inner">
-                    search box start 
+                    search box start
                     <div class="search-box offcanvas">
                         <form>
                             <input type="text" placeholder="Search Here">
                             <button class="search-btn"><i class="ion-ios-search-strong"></i></button>
                         </form>
                     </div>
-                     search box end 
-                     mobile menu start 
+                     search box end
+                     mobile menu start
                     <div class="mobile-navigation">
-                        mobile menu navigation start 
+                        mobile menu navigation start
                         <nav class="off-canvas-nav">
                             <ul class="mobile-menu main-mobile-menu">
                                 <li class="menu-item-has-children">
@@ -639,9 +639,9 @@
                                 <li><a href="contact.php">Contact</a></li>
                             </ul>
                         </nav>
-                         mobile menu navigation end 
+                         mobile menu navigation end
                     </div>
-                     mobile menu end 
+                     mobile menu end
                     <nav class="off-canvas-nav">
                         <ul class="mobile-menu menu-block-2">
                             <li class="menu-item-has-children">
@@ -726,9 +726,9 @@
                                         <!-- <li class="cus-col-25">
                                             <h3 class="menu-title"> <a href="javascript:void(0)">Shop List</a></h3>
                                             <ul class="mega-single-block">
-                                                <li><a href="shop-list.php">Fullwidth</a></li> 
+                                                <li><a href="shop-list.php">Fullwidth</a></li>
                                                 <li><a href="shop-list-left-sidebar.php">left Sidebar</a></li>
-                                                <li><a href="shop-list-right-sidebar.php">Right Sidebar</a></li> 
+                                                <li><a href="shop-list-right-sidebar.php">Right Sidebar</a></li>
                                             </ul>
                                         </li> -->
                                         <li class="cus-col-25">
@@ -3260,7 +3260,7 @@
                                                         "dots":true
                                                     }' data-slick-responsive='[
                                                         {"breakpoint":992, "settings": {"slidesToShow": 2,"rows": 3} },
-                    
+
                                                         {"breakpoint":768, "settings": {"slidesToShow": 1} }
                                                     ]'>
                                                     <div class="single-slide">
@@ -3614,7 +3614,7 @@
                                                         "dots":true
                                                     }' data-slick-responsive='[
                                                         {"breakpoint":992, "settings": {"slidesToShow": 2,"rows": 3} },
-                    
+
                                                         {"breakpoint":768, "settings": {"slidesToShow": 1} }
                                                     ]'>
                                                     <div class="single-slide">
@@ -3969,7 +3969,7 @@
                                                             "dots":true
                                                         }' data-slick-responsive='[
                                                             {"breakpoint":992, "settings": {"slidesToShow": 2,"rows": 3} },
-                        
+
                                                             {"breakpoint":768, "settings": {"slidesToShow": 1} }
                                                         ]'>
                                                     <div class="single-slide">
@@ -4427,7 +4427,7 @@
                                         <img src="image/products/product-details-5.jpg" alt="">
                                     </div>
                                 </div>
-                                 Product Details Slider Nav 
+                                 Product Details Slider Nav
                                 <div class="mt--30 product-slider-nav sb-slick-slider arrow-type-two"
                                     data-slick-setting='{
             "infinite":true,
