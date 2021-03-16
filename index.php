@@ -692,7 +692,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-4">
                         <a href="index.php" class="site-brand">
-                            <img src="image/Logo1.PNG" alt="">
+                            <img src="image/Logo1.png" alt="">
                         </a>
                     </div>
                     <div class="col-lg-8">
