@@ -906,7 +906,7 @@
 	<!--=================================
   Brands Slider
 ===================================== -->
-	<section class="section-margin">
+	<!-- <section class="section-margin">
 		<h2 class="sr-only">Brand Slider</h2>
 		<div class="container">
 			<div class="brand-slider sb-slick-slider border-top border-bottom" data-slick-setting='{
@@ -946,7 +946,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 	<!--=================================
     Footer Area
 ===================================== -->
