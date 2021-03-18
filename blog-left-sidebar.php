@@ -750,7 +750,7 @@
                                     <li><a href="#">Maecenas ultricies</a></li>
                                 </ul>
                             </div>
-                            <div class="single-block ">
+                            <!-- <div class="single-block ">
                                 <h2 class="sidebar-title mb--30">Tags</h2>
                                 <ul class="sidebar-tag-list">
                                     <li><a href="#"> Chilled</a></li>
@@ -770,7 +770,7 @@
                                     <li><a href="#">Video-2</a></li>
                                     <li><a href="#">White</a></li>
                                 </ul>
-                            </div>
+                            </div> -->
                             <!-- Promo Block -->
                             <div class="single-block">
                                 <a href="" class="promo-image sidebar">
