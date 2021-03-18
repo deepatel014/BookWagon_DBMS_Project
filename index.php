@@ -1952,7 +1952,7 @@
     <!--=================================
   Brands Slider
 ===================================== -->
-  
+
     <!--=================================
     Footer Area
 ===================================== -->
@@ -1992,7 +1992,7 @@
                             <!-- <li><a href="">Delivery</a></li> -->
                             <li><a href="">About Us</a></li>
                             <!-- <li><a href="">Stores</a></li> -->
-                            <li><a href="">Contact us</a></li>
+                            <li><a href="contact.php">Contact us</a></li>
                             <li><a href="">Sitemap</a></li>
                         </ul>
                     </div>
