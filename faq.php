@@ -276,7 +276,7 @@
 																	<ul class="sub-menu">
 																			<li><a href="cart.php">Cart</a></li>
 																			<li><a href="checkout.php">Checkout</a></li>
-																			<li><a href="compare.php">Compare</a></li>
+																			<!-- <li><a href="compare.php">Compare</a></li> -->
 																			<li><a href="wishlist.php">Wishlist</a></li>
 																			<li><a href="login-register.php">Login Register</a></li>
 																			<li><a href="my-account.php">My Account</a></li>
@@ -329,7 +329,7 @@
 							</div>
 					</div>
 			</div>
-		<div class="site-mobile-menu">
+		<!-- <div class="site-mobile-menu">
 			<header class="mobile-header d-block d-lg-none pt--10 pb-md--10">
 				<div class="container">
 					<div class="row align-items-sm-end align-items-center">
@@ -465,23 +465,22 @@
 					</div>
 				</div>
 			</header>
-			<!--Off Canvas Navigation Start-->
+
 			<aside class="off-canvas-wrapper">
 				<div class="btn-close-off-canvas">
 					<i class="ion-android-close"></i>
 				</div>
 				<div class="off-canvas-inner">
-					<!-- search box start -->
+
 					<div class="search-box offcanvas">
 						<form>
 							<input type="text" placeholder="Search Here">
 							<button class="search-btn"><i class="ion-ios-search-strong"></i></button>
 						</form>
 					</div>
-					<!-- search box end -->
-					<!-- mobile menu start -->
+
 					<div class="mobile-navigation">
-						<!-- mobile menu navigation start -->
+
 						<nav class="off-canvas-nav">
 							<ul class="mobile-menu main-mobile-menu">
 								<li class="menu-item-has-children">
@@ -584,9 +583,9 @@
 								<li><a href="contact.php">Contact</a></li>
 							</ul>
 						</nav>
-						<!-- mobile menu navigation end -->
+
 					</div>
-					<!-- mobile menu end -->
+
 					<nav class="off-canvas-nav">
 						<ul class="mobile-menu menu-block-2">
 							<li class="menu-item-has-children">
@@ -630,8 +629,8 @@
 					</div>
 				</div>
 			</aside>
-			<!--Off Canvas Navigation End-->
-		</div>
+			Off Canvas Navigation End
+		</div> -->
 		<div class="sticky-init fixed-header common-sticky">
 				<div class="container d-none d-lg-block">
 						<div class="row align-items-center">
@@ -711,7 +710,7 @@
 																<ul class="sub-menu">
 																		<li><a href="cart.php">Cart</a></li>
 																		<li><a href="checkout.php">Checkout</a></li>
-																		<li><a href="compare.php">Compare</a></li>
+																		<!-- <li><a href="compare.php">Compare</a></li> -->
 																		<li><a href="wishlist.php">Wishlist</a></li>
 																		<li><a href="login-register.php">Login Register</a></li>
 																		<li><a href="my-account.php">My Account</a></li>
@@ -906,47 +905,7 @@
 	<!--=================================
   Brands Slider
 ===================================== -->
-	<!-- <section class="section-margin">
-		<h2 class="sr-only">Brand Slider</h2>
-		<div class="container">
-			<div class="brand-slider sb-slick-slider border-top border-bottom" data-slick-setting='{
-                                            "autoplay": true,
-                                            "autoplaySpeed": 8000,
-                                            "slidesToShow": 6
-                                            }' data-slick-responsive='[
-                {"breakpoint":992, "settings": {"slidesToShow": 4} },
-                {"breakpoint":768, "settings": {"slidesToShow": 3} },
-                {"breakpoint":575, "settings": {"slidesToShow": 3} },
-                {"breakpoint":480, "settings": {"slidesToShow": 2} },
-                {"breakpoint":320, "settings": {"slidesToShow": 1} }
-            ]'>
-				<div class="single-slide">
-					<img src="image/others/brand-1.jpg" alt="">
-				</div>
-				<div class="single-slide">
-					<img src="image/others/brand-2.jpg" alt="">
-				</div>
-				<div class="single-slide">
-					<img src="image/others/brand-3.jpg" alt="">
-				</div>
-				<div class="single-slide">
-					<img src="image/others/brand-4.jpg" alt="">
-				</div>
-				<div class="single-slide">
-					<img src="image/others/brand-5.jpg" alt="">
-				</div>
-				<div class="single-slide">
-					<img src="image/others/brand-6.jpg" alt="">
-				</div>
-				<div class="single-slide">
-					<img src="image/others/brand-1.jpg" alt="">
-				</div>
-				<div class="single-slide">
-					<img src="image/others/brand-2.jpg" alt="">
-				</div>
-			</div>
-		</div>
-	</section> -->
+
 	<!--=================================
     Footer Area
 ===================================== -->

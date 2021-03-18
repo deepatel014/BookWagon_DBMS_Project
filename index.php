@@ -383,7 +383,7 @@
                 </div>
             </div>
         </div>
-        
+
         <div class="sticky-init fixed-header common-sticky">
             <div class="container d-none d-lg-block">
                 <div class="row align-items-center">
