@@ -104,7 +104,7 @@
                                         <ul class="sub-menu">
                                             <li><a href="cart.php">Cart</a></li>
                                             <li><a href="checkout.php">Checkout</a></li>
-                                            <li><a href="compare.php">Compare</a></li>
+                                            <!-- <li><a href="compare.php">Compare</a></li> -->
                                             <li><a href="wishlist.php">Wishlist</a></li>
                                             <li><a href="login-register.php">Login Register</a></li>
                                             <li><a href="my-account.php">My Account</a></li>
@@ -408,7 +408,7 @@
                                     <ul class="sub-menu">
                                         <li><a href="cart.php">Cart</a></li>
                                         <li><a href="checkout.php">Checkout</a></li>
-                                        <li><a href="compare.php">Compare</a></li>
+                                        <!-- <li><a href="compare.php">Compare</a></li> -->
                                         <li><a href="wishlist.php">Wishlist</a></li>
                                         <li><a href="login-register.php">Login Register</a></li>
                                         <li><a href="my-account.php">My Account</a></li>
