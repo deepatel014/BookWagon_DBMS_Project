@@ -10,7 +10,7 @@
     <link rel="stylesheet" type="text/css" media="screen" href="css/plugins.css" />
     <link rel="stylesheet" type="text/css" media="screen" href="css/main.css" />
     <link rel="shortcut icon" type="image/x-icon" href="image/favicon.ico">
-    <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/16fbe4edb49ace42ae9de3051/ebafa838ee94415dbc07d03a6.js");</script>
+    <!-- <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/16fbe4edb49ace42ae9de3051/ebafa838ee94415dbc07d03a6.js");</script> -->
 </head>
 
 <body>
@@ -2038,6 +2038,8 @@
     <script src="js/plugins.js"></script>
     <script src="js/ajax-mail.js"></script>
     <script src="js/custom.js"></script>
+    <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/16fbe4edb49ace42ae9de3051/ebafa838ee94415dbc07d03a6.js");</script>
+
 </body>
 
 </html>
