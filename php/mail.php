@@ -6,7 +6,7 @@ header("Access-Control-Allow-Origin: *");
         $name = strip_tags(trim($_POST["con_name"]));
                 $name = str_replace(array("\r","\n"),array(" "," "),$name);
         $email = filter_var(trim($_POST["con_email"]), FILTER_SANITIZE_EMAIL);
-        $phone = strip_tags(trim($_POST["con_phone"]));
+      //  $phone = strip_tags(trim($_POST["con_phone"]));
         $message = trim($_POST["con_message"]);
         // $name="Ansh";
         // //$email="anshvickyy@gmail.com";
@@ -30,7 +30,7 @@ header("Access-Control-Allow-Origin: *");
         // Build the email content.
         $email_content = "Name: $name\n";
         $email_content .= "Email: $email\n\n";
-        $email_content .= "Email: $phone\n\n";
+        //$email_content .= "Email: $phone\n\n";
         $email_content .= "Message:\n$message\n";
 
         // Build the email headers.
