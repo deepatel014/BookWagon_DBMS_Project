@@ -22,7 +22,7 @@ header("Access-Control-Allow-Origin: *");
         }
 
         // Set the recipient email address.
-        $recipient = "anshvickyy@gmail.com";
+        $recipient = "deepp3021@gmail.com";
 
         // Set the email subject.
         $subject = "Test Email for Template Demo - Mail From $name";
