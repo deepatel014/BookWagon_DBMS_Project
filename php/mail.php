@@ -3,15 +3,15 @@ header("Access-Control-Allow-Origin: *");
     // Only process POST reqeusts.
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
         // Get the form fields and remove whitespace.
-        // $name = strip_tags(trim($_POST["con_name"]));
-        //         $name = str_replace(array("\r","\n"),array(" "," "),$name);
+        $name = strip_tags(trim($_POST["con_name"]));
+                $name = str_replace(array("\r","\n"),array(" "," "),$name);
         $email = filter_var(trim($_POST["con_email"]), FILTER_SANITIZE_EMAIL);
-        // $phone = strip_tags(trim($_POST["con_phone"]));
-        // $message = trim($_POST["con_message"]);
-        $name="Ansh";
-        //$email="anshvickyy@gmail.com";
-        $phone=9662830514;
-        $message="email chal raha hai?";
+        $phone = strip_tags(trim($_POST["con_phone"]));
+        $message = trim($_POST["con_message"]);
+        // $name="Ansh";
+        // //$email="anshvickyy@gmail.com";
+        // $phone=9662830514;
+        // $message="email chal raha hai?";
 
         // Check that data was sent to the mailer.
         if ( empty($name) OR empty($message) OR !filter_var($email, FILTER_VALIDATE_EMAIL)) {
@@ -22,7 +22,7 @@ header("Access-Control-Allow-Origin: *");
         }
 
         // Set the recipient email address.
-        $recipient = "anshvickyy@gmail.com";
+        $recipient = "deepp3021@gmail.com";
 
         // Set the email subject.
         $subject = "Test Email for Template Demo - Mail From $name";
