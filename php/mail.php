@@ -9,7 +9,7 @@ header("Access-Control-Allow-Origin: *");
         // $phone = strip_tags(trim($_POST["con_phone"]));
         // $message = trim($_POST["con_message"]);
         $name="Ansh";
-
+        //$email="anshvickyy@gmail.com";
         $phone=9662830514;
         $message="email chal raha hai?";
 
@@ -22,7 +22,7 @@ header("Access-Control-Allow-Origin: *");
         }
 
         // Set the recipient email address.
-        $recipient = "deepp3021@gmail.com";
+        $recipient = "anshvickyy@gmail.com";
 
         // Set the email subject.
         $subject = "Test Email for Template Demo - Mail From $name";
