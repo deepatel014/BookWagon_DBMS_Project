@@ -421,16 +421,13 @@
                     </div>
                     <div class="col-lg-6">
                         <!-- <div id="google-map"></div> -->
-                        <div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas"
-                          src="https://maps.google.com/maps?q=bangalore%20,karnataka,India,560029&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-                          <a href="https://fmovies2.org">fmovies</a><br><style>
-                        .mapouter{position:relative;text-align:right;height:500px;width:600px;}
-                        </style>
-                        <a href="https://www.embedgooglemap.net"></a>
-                        <style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}
-                        </style>
+                        <div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=1st%20Cross%20Rd,%20Bharathi%20Layout,%20S.G.%20Palya,%20Bengaluru,%20Karnataka%20560029&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+                          <a href="https://fmovies2.org">fmovies</a>
+                          <br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style>
+                          <a href="https://www.embedgooglemap.net"></a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}
+                          </style>
                         </div>
-                        </div>
+                       </div>
                     </div>
                 </div>
             </div>
