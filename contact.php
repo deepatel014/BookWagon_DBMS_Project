@@ -83,8 +83,8 @@
             <div class="header-bottom bg-primary">
       					<div class="container">
       							<div class="row align-items-center">
-      									<div class="col-lg-3">
-      											<nav class="category-nav  primary-nav show">
+      									<!--<div class="col-lg-3">
+      											 <nav class="category-nav  primary-nav show">
       													<div>
       															<a href="javascript:void(0)" class="category-trigger"><i
       																			class="fa fa-bars"></i>Browse
@@ -109,14 +109,14 @@
       																	<li class="cat-item has-children"><a href="#">Comics</a>
 
       																	</li>
-      																	<!-- <li class="cat-item"><a href="#">Perfomance Filters</a></li> -->
+      																	 <li class="cat-item"><a href="#">Perfomance Filters</a></li>
       																	<li class="cat-item has-children"><a href="#">Cookbooks</a>
-      																			<!-- <ul class="sub-menu">
+      																			 <ul class="sub-menu">
       																					<li><a href="">Brake Tools</a></li>
       																					<li><a href="">Driveshafts</a></li>
       																					<li><a href="">Emergency Brake</a></li>
       																					<li><a href="">Spools</a></li>
-      																			</ul> -->
+      																			</ul>
       																	</li>
       																	<li class="cat-item hidden-menu-item"><a href="#">Accessories</a></li>
       																	<li class="cat-item hidden-menu-item"><a href="#">Education</a></li>
@@ -126,7 +126,7 @@
       															</ul>
       													</div>
       											</nav>
-      									</div>
+      									</div>-->
       									<div class="col-lg-3">
       											<div class="header-phone ">
       													<div class="icon">
