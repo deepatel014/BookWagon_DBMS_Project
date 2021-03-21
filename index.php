@@ -2003,9 +2003,9 @@
                         <h3>Newsletter Subscribe</h3>
                     </div>
                     <div class="newsletter-form mb--30">
-                        <form action="./php/mail.php">
-                            <input type="email" class="form-control" placeholder="Enter Your Email Address Here...">
-                            <button class="btn btn--primary w-100">Subscribe</button>
+                        <form action="./php/mail.php" method="post">
+                            <input type="email" name="con_email" id="con_email" class="form-control" placeholder="Enter Your Email Address Here...">
+                            <button type="submit" name="sendMail"class="btn btn--primary w-100">Subscribe</button>
                         </form>
                     </div>
                     <div class="social-block">
